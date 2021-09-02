@@ -15,7 +15,7 @@ async def start(_, message: Message):
             InlineKeyboardButton("💬 Group", url="https://t.me/Dil_Dosti_Duniyadary"),
             InlineKeyboardButton("My Dev 🤴", url="https://t.me/Oxyver_Owner")
             ],[
-            InlineKeyboardButton("😁 Repo 🇮🇳", url="https://github.com/rakeshyt/DevilHackerMusic")
+            InlineKeyboardButton("😁 Repo 🇮🇳", url="https://t.me/Dil_Dosti_Duniyadary")
             ]]
         ),
         disable_web_page_preview=True
