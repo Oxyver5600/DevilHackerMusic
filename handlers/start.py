@@ -12,8 +12,8 @@ async def start(_, message: Message):
             [[
             InlineKeyboardButton("➕ Add To Your Group ➕", url="https://t.me/DevilHackerMusicBot?startgroup=true")
             ],[
-            InlineKeyboardButton("💬 Group", url="https://t.me/TheModdingGod"),
-            InlineKeyboardButton("My Dev 🤴", url="https://t.me/DevilHackerRakesh")
+            InlineKeyboardButton("💬 Group", url="https://t.me/Dil_Dosti_Duniyadary"),
+            InlineKeyboardButton("My Dev 🤴", url="https://t.me/Oxyver_Owner")
             ],[
             InlineKeyboardButton("😁 Repo 🇮🇳", url="https://github.com/rakeshyt/DevilHackerMusic")
             ]]
@@ -27,7 +27,7 @@ async def gstart(_, message: Message):
         text="**Music Bot Is Online ✅**",
         reply_markup=InlineKeyboardMarkup(
             [[
-            InlineKeyboardButton(text="🎙️ Support Group 🎙️", url="https://t.me/TheModdingGod")
+            InlineKeyboardButton(text="🎙️ Support Group 🎙️", url="https://t.me/Dil_Dosti_Duniyadary")
             ]]
         )
     )
@@ -66,7 +66,7 @@ __× First Add Me To Your Group..
 • `/userbotleave` : __Assistant Leaves From The Group.__""",
         reply_markup=InlineKeyboardMarkup(
               [[
-              InlineKeyboardButton(text="🎙️ My Dev 🎙️", url="https://t.me/DevilHackerRakesh")
+              InlineKeyboardButton(text="🎙️ My Dev 🎙️", url="https://t.me/Oxyver_Owner")
               ]]
           )
       )
